@@ -1,0 +1,17 @@
+C:\Users\fezile.mahlangu\source\repos\apikey\bin\Debug\net8.0\apikey.exe
+C:\Users\fezile.mahlangu\source\repos\apikey\bin\Debug\net8.0\apikey.deps.json
+C:\Users\fezile.mahlangu\source\repos\apikey\bin\Debug\net8.0\apikey.runtimeconfig.json
+C:\Users\fezile.mahlangu\source\repos\apikey\bin\Debug\net8.0\apikey.dll
+C:\Users\fezile.mahlangu\source\repos\apikey\bin\Debug\net8.0\apikey.pdb
+C:\Users\fezile.mahlangu\source\repos\apikey\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fezile.mahlangu\source\repos\apikey\obj\Debug\net8.0\apikey.csproj.AssemblyReference.cache
+C:\Users\fezile.mahlangu\source\repos\apikey\obj\Debug\net8.0\apikey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fezile.mahlangu\source\repos\apikey\obj\Debug\net8.0\apikey.AssemblyInfoInputs.cache
+C:\Users\fezile.mahlangu\source\repos\apikey\obj\Debug\net8.0\apikey.AssemblyInfo.cs
+C:\Users\fezile.mahlangu\source\repos\apikey\obj\Debug\net8.0\apikey.csproj.CoreCompileInputs.cache
+C:\Users\fezile.mahlangu\source\repos\apikey\obj\Debug\net8.0\apikey.csproj.Up2Date
+C:\Users\fezile.mahlangu\source\repos\apikey\obj\Debug\net8.0\apikey.dll
+C:\Users\fezile.mahlangu\source\repos\apikey\obj\Debug\net8.0\refint\apikey.dll
+C:\Users\fezile.mahlangu\source\repos\apikey\obj\Debug\net8.0\apikey.pdb
+C:\Users\fezile.mahlangu\source\repos\apikey\obj\Debug\net8.0\apikey.genruntimeconfig.cache
+C:\Users\fezile.mahlangu\source\repos\apikey\obj\Debug\net8.0\ref\apikey.dll
